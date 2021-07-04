@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mann-portfolio/static/css/main.e45ab6c4.chunk.css",
+    "main.js": "/mann-portfolio/static/js/main.2169f5b9.chunk.js",
+    "main.js.map": "/mann-portfolio/static/js/main.2169f5b9.chunk.js.map",
+    "runtime-main.js": "/mann-portfolio/static/js/runtime-main.ea8f3b35.js",
+    "runtime-main.js.map": "/mann-portfolio/static/js/runtime-main.ea8f3b35.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/mann-portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.59c7549c.chunk.js": "/mann-portfolio/static/js/2.59c7549c.chunk.js",
+    "static/js/2.59c7549c.chunk.js.map": "/mann-portfolio/static/js/2.59c7549c.chunk.js.map",
+    "index.html": "/mann-portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/mann-portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e45ab6c4.chunk.css.map": "/mann-portfolio/static/css/main.e45ab6c4.chunk.css.map",
+    "static/js/2.59c7549c.chunk.js.LICENSE.txt": "/mann-portfolio/static/js/2.59c7549c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mann-portfolio/static/media/OIP.29597617.jpg",
+    "static/media/img.b7a67fab.png": "/mann-portfolio/static/media/img.b7a67fab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8f3b35.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.59c7549c.chunk.js",
+    "static/css/main.e45ab6c4.chunk.css",
+    "static/js/main.2169f5b9.chunk.js"
+  ]
+}
