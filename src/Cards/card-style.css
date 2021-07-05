@@ -1,0 +1,57 @@
+body{
+    background: #ff00cc;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.card{
+    width: 20rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    scale:(1);
+    opacity: 65%;
+    background:transparent;
+    border:rgb(255, 255, 255) 2px ;
+}
+ .card:hover{
+     box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253)!important;
+     transform: scale(1.1);
+     opacity: 100%
+}
+    
+
+.card-body{
+    
+    padding:3rem 0 !important;
+}
+
+.card-text{
+    font-size: 0.9rem;
+    padding: 0.4rem 1.9 rem;
+}
+
+.container-fluid.row{
+    padding-top: 6rem;
+}
+
+.card-img-top{
+    width:350px;
+    height:300px;
+}
+
+.overflow{
+    overflow: hidden;
+}
+.card-img-top{
+    transform: scale(1);
+    transition: 0.5s ease;
+    
+}
+
+p{
+    align-content: space-around;
+    color: rgb(255, 255, 255);
+}
+h4{
+    color: rgb(255, 255, 255);
+}
